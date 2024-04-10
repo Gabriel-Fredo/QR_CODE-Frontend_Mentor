@@ -1,0 +1,18 @@
+@media(max-width: 375px) {
+    .qr-code-box {
+        width: 260px;
+        height: 420px;
+    }
+
+    .qr-code-box img {
+        height: 230px;
+    }
+
+    .qr-code-box .above-text {
+        font-size: 19px;
+    }
+
+    .qr-code-box .below-text {
+        font-size: 12px;
+    }
+}
