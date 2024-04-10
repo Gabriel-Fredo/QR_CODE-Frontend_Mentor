@@ -1,4 +1,5 @@
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+(Solu) 
 
 ## Table of contents
 
@@ -51,7 +52,7 @@ About centralization and web design... This is ABSOLUTELY an area I will continu
 
 ### Useful resources
 
-- [DevMedia](https://www.devmedia.com.br/como-centralizar-divs-em-html-e-css/37568) - this REALLY helped me center the div(I always forget XD). I will definitely use it more often.
+- [DevMedia](https://www.devmedia.com.br/como-centralizar-divs-em-html-e-css/37568) - this REALLY helped me center the div (I always forget how to do this XD). I will definitely use it more often.
 
 
 ## Author
