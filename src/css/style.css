@@ -25,7 +25,7 @@ body {
     border-radius: 5%;
 }
 
-.qr-code-box p {
+.qr-code-box {
     text-align: center;
     font-family: 'Outfit', sans-serif;
 }
