@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I learned more about centering and how to apply it to the page in a way that works, a little about web design and how to use divs for layout. (And currently training my English, sorry for any spelling mistakes XD)
 
 ```html
-<div class="qr-code-container">
+<main class="qr-code-container">
     <div class="qr-code-box">
       <img src="./src/images/image-qr-code.png" alt="QR Code Image" />
 ```
